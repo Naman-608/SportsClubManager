@@ -4,6 +4,11 @@ Sport: Cricket
 Position: First
 
 Player 2:
-Name: Virat
+Name: Virat Sharma
 Sport: Hockey
 Position: Second
+
+Player 3:
+Name: Soham
+Sport: Chess
+Position: Third
