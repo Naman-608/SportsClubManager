@@ -1,0 +1,1 @@
+The player should be selected base on his physical and mental stat, his/her past performance at different levels
