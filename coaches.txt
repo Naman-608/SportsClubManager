@@ -5,3 +5,7 @@ Sport: Cricket
 Coach 2:
 Name: Advait Wadke
 Sport: Hockey
+
+Coach 3:
+Name: Amit Phadke
+Sport: Running
