@@ -1,1 +1,2 @@
-The player should be selected base on his physical and mental stat, his/her past performance at different levels
+The player should be selected base on his physical and mental stat, his/her past performance at different levels.
+Tools will be different for different sports.
