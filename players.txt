@@ -1,4 +1,4 @@
-Player 1:
+Deatils of players:
 Name: Akshat
 Sport: Cricket
 Position: First
